@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Geforce GTX 1080 Ti XC3 Ultra",
+    "picture": "images/scottish-terrier.jpeg",
+    "condition": "Slightly Used",
+    "brand": "EVGA",
+    "architecture": "PASCAL"
+  },
+  {
+    "id": 1,
+    "name": "Geforce RTX 2080 ROG Strix",
+    "picture": "images/scottish-terrier.jpeg",
+    "condition": "Heavy Usage",
+    "brand": "ASUS",
+    "architecture": "TURING"
+  },
+  {
+    "id": 2,
+    "name": "Geforce GTX 960 XTREME",
+    "picture": "images/french-bulldog.jpeg",
+    "condition": "As new",
+    "brand": "Gigabyte",
+    "architecture": "MAXWELL"
+  },
+  {
+    "id": 3,
+    "name": "Geforce GTX TITAN Z 12GB",
+    "picture": "images/boxer.jpeg",
+    "condition": "Heavy Usage",
+    "brand": "GALAX",
+    "architecture": "KEPLER"
+  },
+  {
+    "id": 4,
+    "name": "Geforce RTX 3090 Ti EX",
+    "picture": "images/french-bulldog.jpeg",
+    "condition": "Used",
+    "brand": "KFA2",
+    "architecture": "AMPERE"
+  },
+  {
+    "id": 5,
+    "name": "Geforce RTX 4090 AMP",
+    "picture": "images/french-bulldog.jpeg",
+    "condition": "Slightly Used",
+    "brand": "ZOTAC",
+    "architecture": "ADA"
+  },
+  {
+    "id": 6,
+    "name": "Geforce GTX 1080 XTREME",
+    "picture": "images/golden-retriever.jpeg",
+    "condition": "New",
+    "brand": "Gigabyte",
+    "architecture": "PASCAL"
+  },
+  {
+    "id": 7,
+    "name": "Radeon RX580 Nitro + 8GB",
+    "picture": "images/golden-retriever.jpeg",
+    "condition": "Heavy Usage",
+    "brand": "Sapphire",
+    "architecture": "POLARIS"
+  },
+  {
+    "id": 8,
+    "name": "Geforce GTX 690 Founder",
+    "picture": "images/french-bulldog.jpeg",
+    "condition": "Heavy Usage",
+    "brand": "NVIDIA",
+    "architecture": "KEPLER"
+  },
+  {
+    "id": 9,
+    "name": "Geforce GTX 1660 Ti Gaming",
+    "picture": "images/boxer.jpeg",
+    "condition": "Factory New",
+    "brand": "INNO3D",
+    "architecture": "Turing"
+  },
+  {
+    "id": 10,
+    "name": "Radeon RX 7900XTX Ultimate",
+    "picture": "images/boxer.jpeg",
+    "condition": "Heavy Usage",
+    "brand": "BIOSTAR",
+    "architecture": "RDNA3"
+  },
+  {
+    "id": 11,
+    "name": "ARC Alchemist A770 8GB",
+    "picture": "images/scottish-terrier.jpeg",
+    "condition": "New",
+    "brand": "Intel",
+    "architecture": "Intel Xe-HPG"
+  },
+  {
+    "id": 12,
+    "name": "RTX A6000 48GB",
+    "picture": "images/french-bulldog.jpeg",
+    "condition": "Slightly Used",
+    "brand": "NVIDIA",
+    "architecture": "AMPERE"
+  },
+  {
+    "id": 13,
+    "name": "Geforce RTX 3090 XTREME",
+    "picture": "images/golden-retriever.jpeg",
+    "condition": "As new",
+    "brand": "Gigabyte",
+    "architecture": "AMPERE"
+  },
+  {
+    "id": 14,
+    "name": "Geforce GTX 1070 AMP",
+    "picture": "images/golden-retriever.jpeg",
+    "condition": "Used",
+    "brand": "ZOTAC",
+    "architecture": "Broadlands, Oregon"
+  },
+  {
+    "id": 15,
+    "name": "Geforce RTX 3090 Ti Kingpin 24GB",
+    "picture": "images/golden-retriever.jpeg",
+    "condition": "Heavy Usage",
+    "brand": "EVGA",
+    "architecture": "AMPERE"
+  }
+]
